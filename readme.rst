@@ -4,7 +4,7 @@ Harap diperhatikan
 Dalam repository ini ada beberapa yang perlu diperbaiki:
 (1) Tambahkan .htaccess https://codeigniter.com/userguide3/general/urls.html?highlight=htaccess
 (2) Ganti stricton mode sql di dalam repository ini defaultnya: TRUE ... application/config/database.php karena untuk keperluan hosting di 000webhost ini perlu di enable ... Jika ingin men-disable ubah menjadi 'FALSE'
-(3) Ganti email dan password di aplication/controllers/Auth.php dan aplication/controllers/Admin.php dengan milik Sobat, default tidak ada jika tidak diganti tidak jalan saat kirim email
+(3) Ganti email dan password di aplication/controllers/Auth.php dan aplication/controllers/Admin.php dengan milik Sobat, default tidak ada jika tidak diganti tidak jalan saat kirim email (4) email dan password default: admin'et'gmail'dot'com=admin, opertor'et'gmail'dot'com=operator, user'et'gmail'dot'com=user
 
 ###################
 What is CodeIgniter
