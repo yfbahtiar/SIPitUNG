@@ -1,3 +1,11 @@
+*******************
+Harap diperhatikan
+*******************
+Dalam repository ini ada beberapa yang perlu diperbaiki:
+1. Tambahkan .htaccess https://codeigniter.com/userguide3/general/urls.html?highlight=htaccess
+2. Ganti stricton mode sql di application/config/database.php karena untuk keperluan hosting di 000webhost ini perlu di enable
+3. Ganti email dan password di aplication/controllers/Auth.php dan aplication/controllers/Admin.php dengan milik Sobat, default tidak ada jika tidak diganti tidak jalan saat kirim email
+
 ###################
 What is CodeIgniter
 ###################
