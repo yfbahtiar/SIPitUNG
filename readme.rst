@@ -9,7 +9,7 @@ Dalam repository ini ada beberapa yang perlu diperbaiki:
 
 (3) Ganti email dan password di aplication/controllers/Auth.php dan aplication/controllers/Admin.php dengan milik Sobat, default tidak ada jika tidak diganti tidak jalan saat kirim email
 
-(4) email dan password default: admin'et'gmail'dot'com=admin, opertor'et'gmail'dot'com=operator, user'et'gmail'dot'com=user
+(4) email dan password default for login: admin'et'gmail'dot'com=admin, opertor'et'gmail'dot'com=operator, user'et'gmail'dot'com=user
 
 ###################
 What is CodeIgniter
